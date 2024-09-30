@@ -1,0 +1,25 @@
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.carousel-border{
+    border: 5px solid black; 
+    border-radius: 10px; 
+}
+.bloques{
+    padding-left: 50px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+    text-decoration: none;
+    color:black;
+    margin: 100;
+    display:grid;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: black;
+    border-style:solid;
+}
+.bloques:hover{
+    background-color: yellow;
+}
